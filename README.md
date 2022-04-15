@@ -7,7 +7,8 @@ With an increase in the value of k, as the number of clusters increases, the ima
 We can also calculate the within-cluster sum of squared error to gain insight on whether the clusters are well fitted and correctly assigned or not, since it provides us with the variance of the cluster centroids.
 Note: It’s advised to keep the value of k as a multiple (more preferably, a power) of 2, same as the conventional image formats, to get better results.
 ![Output](https://user-images.githubusercontent.com/80475016/163541668-8400e408-4052-4d92-b616-a175ce456ca8.png)
-
+[Demo] Image Compression with kmeans 64 and 32 Clusters  
+<img src='Image_Compressor/demo_working.mp4' title='Emotion' style='max-width:600px'></img>  
 # Task-2: Prediction of valence and arousal levels from real time video using deep learning techniques
 [Demo] Discrete Emotion + Continuous Valence and Arousal levels      
 <img src='Emotion_detetction/demo_working.gif' title='Emotion' style='max-width:600px'></img>  
